@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: "jdbc:mariadb://localhost:3306/ddd_start"
-    username: "ddd_user"
+    url: "jdbc:mariadb://localhost:3306/shop"
+    username: "shop_user"
     password: "w1!6-#DE*czWE8h5dBuB"
     driver-class-name: org.mariadb.jdbc.Driver
