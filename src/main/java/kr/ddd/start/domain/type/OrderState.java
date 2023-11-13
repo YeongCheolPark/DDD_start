@@ -1,4 +1,4 @@
-package kr.ddd.start.entity;
+package kr.ddd.start.domain.type;
 
 public enum OrderState {
     PAYMENT_WAITING {
